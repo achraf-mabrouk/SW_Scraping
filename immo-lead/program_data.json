@@ -1,0 +1,589 @@
+{
+    "description": "Des appartements neufs et un local commercial à vendre. Une résidence d'exception, au fil de l'eau, dans un quartier très prisé ! Entre Vosges et Forêt-Noire, sur les rives du Rhin, la commune de Strasbourg s'inscrit dans un écrin paysager. En son coeur, la capitale européenne révèle toute son énergie : nature, effervescente et attractive. L'Eurométropole de Strasbourg est aujourd'hui parmi les plus dynamiques d'Europe : technologies médicales, mobilité innovante, tertiaire supérieur, économie sociale et solidaire, autant de secteurs tournés vers le futur. A l'entrée de Strasbourg et du quartier européen, la résidence vous réserve une architecture élégante et contemporaine, dans un cadre verdoyant. Les 31 appartements, du 2 au 5 pièces, bénéficient de vues sur la rivière l'Aar et les espaces paysagers, de jardins privatifs, et de prestations de haut standing. Une adresse de prestige, au coeur de l'un des quartiers les plus prisés de Strasbourg, le Tivoli. Inscrivez-vous sans plus attendre pour en savoir plus. Prix indiqué stationnement inclus pour T3, T4 et T5.",
+    "livraison": "31/12/2024",
+    "miniature_img": "https://immo-lead.com/appli/media/logo-prg/52632.jpg",
+    "program_url": "https://immo-lead.com/appli/detail-programme-52632",
+    "adresse": "Lieu du programme 48 rue du Tivoli 67000 Strasbourg",
+    "adresse_b_vente": "Bureau de vente 1 rue de Zurich 67000 Strasbourg",
+    "localisation": "Strasbourg 67000",
+    "nbr_lots": 48,
+    "zone_fiscale": "B1",
+    "promoteur": "IMMOLEAD",
+    "commission_nette": null,
+    "prix_prog": null,
+    "medias": {
+        "documents": [
+            {
+                "doc_url": "https://immo-lead.com/appli/uploads/mediaprg/41/52632/1682a8eaf6e1.pdf",
+                "doc_name": "MANDAT DE GESTION FONCIA"
+            },
+            {
+                "doc_url": "https://immo-lead.com/appli/uploads/mediaprg/41/52632/4b342c77e9a8.pdf",
+                "doc_name": "PLAQUETTE COMMERCIALE TIVOLI 48"
+            },
+            {
+                "doc_url": "https://immo-lead.com/appli/uploads/mediaprg/41/52632/bfd09d0bb815.pdf",
+                "doc_name": "Notice d'Information Précontractuelle"
+            },
+            {
+                "doc_url": "https://immo-lead.com/appli/uploads/mediaprg/41/52632/9001b25b9b12.pdf",
+                "doc_name": "Notice descriptive TIVOLI accession 02.06.2022"
+            },
+            {
+                "doc_url": "https://immo-lead.com/appli/uploads/mediaprg/41/52632/9062617acc83.pdf",
+                "doc_name": "ETAPES D'UNE ACQUISITION"
+            },
+            {
+                "doc_url": "https://immo-lead.com/appli/uploads/mediaprg/41/52632/0e9b6436a229.pdf",
+                "doc_name": "20200827 - Immobilier résidentiel - Contrat de réservation - CP"
+            },
+            {
+                "doc_url": "https://immo-lead.com/appli/uploads/mediaprg/41/52632/152b5679dd8c.pdf",
+                "doc_name": "20200827 - Immobilier résidentiel - Contrat de réservation - CG"
+            },
+            {
+                "doc_url": "https://immo-lead.com/appli/uploads/mediaprg/41/52632/43b30ce547bb.pdf",
+                "doc_name": "5 - COMBLES - ATTIQUE"
+            },
+            {
+                "doc_url": "https://immo-lead.com/appli/uploads/mediaprg/41/52632/391dbc49c2ca.pdf",
+                "doc_name": "4 - 2eme ETAGE"
+            },
+            {
+                "doc_url": "https://immo-lead.com/appli/uploads/mediaprg/41/52632/88acbbc749a0.pdf",
+                "doc_name": "3 - 1er ETAGE"
+            },
+            {
+                "doc_url": "https://immo-lead.com/appli/uploads/mediaprg/41/52632/474140197fc3.pdf",
+                "doc_name": "2 - REZ-DE-CHAUSSEE"
+            },
+            {
+                "doc_url": "https://immo-lead.com/appli/uploads/mediaprg/41/52632/a8b4eb2a88f9.pdf",
+                "doc_name": "1 - SOUS-SOL--"
+            },
+            {
+                "doc_url": "https://immo-lead.com/appli/uploads/mediaprg/41/52632/4c903f6faece.pdf",
+                "doc_name": "6 - SURCOMBLES"
+            },
+            {
+                "doc_url": "https://immo-lead.com/appli/uploads/mediaprg/41/52632/b11d377eb83e.pdf",
+                "doc_name": "ERP COMPLET 08112022"
+            }
+        ],
+        "images_prog": []
+    },
+    "lots_list": [
+        {
+            "reference": "A22",
+            "type_residence": "Appartement",
+            "typo": "T3",
+            "surf_habit": "67,93 m²",
+            "etiquette_fisc": null,
+            "rentabilite": "",
+            "etage": "2",
+            "plan": [
+                "https://immo-lead.com/appli/uploads/mediaprg/41/52632/2709bc14f3b8.pdf"
+            ],
+            "status": "Libre",
+            "exposition": "-",
+            "loyer_mens": "0,00 €",
+            "prix_au_m_carre": 697777.12,
+            "annexes": {
+                "balcon": "9,57 m²"
+            },
+            "surface_annexe": "9.57 m²",
+            "parking": [],
+            "prix_immo_tva_norm": 50300000,
+            "prix_hors_parking_norm": 47400000,
+            "prix_immo_tva_red": "-",
+            "prix_hors_parking_red": "-"
+        },
+        {
+            "reference": "A23",
+            "type_residence": "Appartement",
+            "typo": "T2",
+            "surf_habit": "41,14 m²",
+            "etiquette_fisc": null,
+            "rentabilite": "",
+            "etage": "2",
+            "plan": [
+                "https://immo-lead.com/appli/uploads/mediaprg/41/52632/1e5bc0a83619.pdf"
+            ],
+            "status": "Libre",
+            "exposition": "-",
+            "loyer_mens": "0,00 €",
+            "prix_au_m_carre": 751093.83,
+            "annexes": {
+                "balcon": "9,68 m²"
+            },
+            "surface_annexe": "9.68 m²",
+            "parking": [],
+            "prix_immo_tva_norm": 30900000,
+            "prix_hors_parking_norm": 30900000,
+            "prix_immo_tva_red": "-",
+            "prix_hors_parking_red": "-"
+        },
+        {
+            "reference": "A24",
+            "type_residence": "Appartement",
+            "typo": "T2",
+            "surf_habit": "40,90 m²",
+            "etiquette_fisc": null,
+            "rentabilite": "",
+            "etage": "2",
+            "plan": [
+                "https://immo-lead.com/appli/uploads/mediaprg/41/52632/ac4c96a25ab6.pdf"
+            ],
+            "status": "Libre",
+            "exposition": "-",
+            "loyer_mens": "0,00 €",
+            "prix_au_m_carre": 755501.22,
+            "annexes": {
+                "balcon": "9,68 m²"
+            },
+            "surface_annexe": "9.68 m²",
+            "parking": [],
+            "prix_immo_tva_norm": 30900000,
+            "prix_hors_parking_norm": 30900000,
+            "prix_immo_tva_red": "-",
+            "prix_hors_parking_red": "-"
+        },
+        {
+            "reference": "A31",
+            "type_residence": "Appartement",
+            "typo": "T1",
+            "surf_habit": "35,93 m²",
+            "etiquette_fisc": null,
+            "rentabilite": "",
+            "etage": "3",
+            "plan": [
+                "https://immo-lead.com/appli/uploads/mediaprg/41/52632/214e924d1a76.pdf"
+            ],
+            "status": "Libre",
+            "exposition": "-",
+            "loyer_mens": "0,00 €",
+            "prix_au_m_carre": 684664.63,
+            "annexes": {},
+            "surface_annexe": 0.0,
+            "parking": [],
+            "prix_immo_tva_norm": 24600000,
+            "prix_hors_parking_norm": 24600000,
+            "prix_immo_tva_red": "-",
+            "prix_hors_parking_red": "-"
+        },
+        {
+            "reference": "A32",
+            "type_residence": "Duplex",
+            "typo": "T5",
+            "surf_habit": "113,50 m²",
+            "etiquette_fisc": null,
+            "rentabilite": "",
+            "etage": "3",
+            "plan": [
+                "https://immo-lead.com/appli/uploads/mediaprg/41/52632/c50197ce689a.pdf"
+            ],
+            "status": "Libre",
+            "exposition": "-",
+            "loyer_mens": "0,00 €",
+            "prix_au_m_carre": 746255.51,
+            "annexes": {
+                "terrasses": "28,36 m²"
+            },
+            "surface_annexe": "28.36 m²",
+            "parking": [],
+            "prix_immo_tva_norm": 90500000,
+            "prix_hors_parking_norm": 84700000,
+            "prix_immo_tva_red": "-",
+            "prix_hors_parking_red": "-"
+        },
+        {
+            "reference": "A33",
+            "type_residence": "Duplex",
+            "typo": "T4",
+            "surf_habit": "85,44 m²",
+            "etiquette_fisc": null,
+            "rentabilite": "",
+            "etage": "3",
+            "plan": [
+                "https://immo-lead.com/appli/uploads/mediaprg/41/52632/8ae650b7efc1.pdf"
+            ],
+            "status": "Libre",
+            "exposition": "-",
+            "loyer_mens": "0,00 €",
+            "prix_au_m_carre": 675327.72,
+            "annexes": {
+                "terrasses": "15,36 m²"
+            },
+            "surface_annexe": "15.36 m²",
+            "parking": [],
+            "prix_immo_tva_norm": 60600000,
+            "prix_hors_parking_norm": 57700000,
+            "prix_immo_tva_red": "-",
+            "prix_hors_parking_red": "-"
+        },
+        {
+            "reference": "A34",
+            "type_residence": "Duplex",
+            "typo": "T5",
+            "surf_habit": "116,31 m²",
+            "etiquette_fisc": null,
+            "rentabilite": "",
+            "etage": "3",
+            "plan": [
+                "https://immo-lead.com/appli/uploads/mediaprg/41/52632/b3b1846e5901.pdf"
+            ],
+            "status": "Libre",
+            "exposition": "-",
+            "loyer_mens": "0,00 €",
+            "prix_au_m_carre": 741982.63,
+            "annexes": {
+                "terrasses": "43,33 m²"
+            },
+            "surface_annexe": "43.33 m²",
+            "parking": [],
+            "prix_immo_tva_norm": 89200000,
+            "prix_hors_parking_norm": 86300000,
+            "prix_immo_tva_red": "-",
+            "prix_hors_parking_red": "-"
+        },
+        {
+            "reference": "A35",
+            "type_residence": "Duplex",
+            "typo": "T4",
+            "surf_habit": "99,94 m²",
+            "etiquette_fisc": null,
+            "rentabilite": "",
+            "etage": "3",
+            "plan": [
+                "https://immo-lead.com/appli/uploads/mediaprg/41/52632/ab52e9c60588.pdf"
+            ],
+            "status": "Libre",
+            "exposition": "-",
+            "loyer_mens": "0,00 €",
+            "prix_au_m_carre": 666399.84,
+            "annexes": {
+                "terrasses": "22,59 m²"
+            },
+            "surface_annexe": "22.59 m²",
+            "parking": [],
+            "prix_immo_tva_norm": 69500000,
+            "prix_hors_parking_norm": 66600000,
+            "prix_immo_tva_red": "-",
+            "prix_hors_parking_red": "-"
+        },
+        {
+            "reference": "A36",
+            "type_residence": "Appartement",
+            "typo": "T3",
+            "surf_habit": "84,47 m²",
+            "etiquette_fisc": null,
+            "rentabilite": "",
+            "etage": "3",
+            "plan": [
+                "https://immo-lead.com/appli/uploads/mediaprg/41/52632/b9aac6e4d61e.pdf"
+            ],
+            "status": "Libre",
+            "exposition": "-",
+            "loyer_mens": "0,00 €",
+            "prix_au_m_carre": 630993.25,
+            "annexes": {
+                "balcon": "11,04 m²"
+            },
+            "surface_annexe": "11.04 m²",
+            "parking": [],
+            "prix_immo_tva_norm": 56200000,
+            "prix_hors_parking_norm": 53300000,
+            "prix_immo_tva_red": "-",
+            "prix_hors_parking_red": "-"
+        },
+        {
+            "reference": "B01",
+            "type_residence": "Appartement",
+            "typo": "T5",
+            "surf_habit": "253,82 m²",
+            "etiquette_fisc": null,
+            "rentabilite": "",
+            "etage": "RDC",
+            "plan": [
+                "https://immo-lead.com/appli/uploads/mediaprg/41/52632/b2042a5dc432.pdf"
+            ],
+            "status": "Optionné",
+            "exposition": "-",
+            "loyer_mens": "0,00 €",
+            "prix_au_m_carre": 739894.41,
+            "annexes": {
+                "terrasses": "67,01 m²",
+                "jardin": "696,09 m²"
+            },
+            "surface_annexe": "763.1 m²",
+            "parking": [],
+            "prix_immo_tva_norm": 202300000,
+            "prix_hors_parking_norm": 187800000,
+            "prix_immo_tva_red": "-",
+            "prix_hors_parking_red": "-"
+        },
+        {
+            "reference": "B11",
+            "type_residence": "Appartement",
+            "typo": "T4",
+            "surf_habit": "90,17 m²",
+            "etiquette_fisc": null,
+            "rentabilite": "",
+            "etage": "1",
+            "plan": [
+                "https://immo-lead.com/appli/uploads/mediaprg/41/52632/1b0055695c96.pdf"
+            ],
+            "status": "Libre",
+            "exposition": "-",
+            "loyer_mens": "0,00 €",
+            "prix_au_m_carre": 662082.73,
+            "annexes": {
+                "terrasses": "15,38 m²"
+            },
+            "surface_annexe": "15.38 m²",
+            "parking": [],
+            "prix_immo_tva_norm": 62600000,
+            "prix_hors_parking_norm": 59700000,
+            "prix_immo_tva_red": "-",
+            "prix_hors_parking_red": "-"
+        },
+        {
+            "reference": "B12",
+            "type_residence": "Appartement",
+            "typo": "T4",
+            "surf_habit": "89,10 m²",
+            "etiquette_fisc": null,
+            "rentabilite": "",
+            "etage": "1",
+            "plan": [
+                "https://immo-lead.com/appli/uploads/mediaprg/41/52632/77ce22e9a3a0.pdf"
+            ],
+            "status": "Libre",
+            "exposition": "-",
+            "loyer_mens": "0,00 €",
+            "prix_au_m_carre": 675645.34,
+            "annexes": {
+                "balcon": "20,66 m²"
+            },
+            "surface_annexe": "20.66 m²",
+            "parking": [],
+            "prix_immo_tva_norm": 63100000,
+            "prix_hors_parking_norm": 60200000,
+            "prix_immo_tva_red": "-",
+            "prix_hors_parking_red": "-"
+        },
+        {
+            "reference": "B13",
+            "type_residence": "Appartement",
+            "typo": "T3",
+            "surf_habit": "63,59 m²",
+            "etiquette_fisc": null,
+            "rentabilite": "",
+            "etage": "1",
+            "plan": [
+                "https://immo-lead.com/appli/uploads/mediaprg/41/52632/4efd8af35c30.pdf"
+            ],
+            "status": "Libre",
+            "exposition": "-",
+            "loyer_mens": "0,00 €",
+            "prix_au_m_carre": 699795.57,
+            "annexes": {
+                "terrasses": "14,69 m²"
+            },
+            "surface_annexe": "14.69 m²",
+            "parking": [],
+            "prix_immo_tva_norm": 47400000,
+            "prix_hors_parking_norm": 44500000,
+            "prix_immo_tva_red": "-",
+            "prix_hors_parking_red": "-"
+        },
+        {
+            "reference": "B21",
+            "type_residence": "Appartement",
+            "typo": "T4",
+            "surf_habit": "90,17 m²",
+            "etiquette_fisc": null,
+            "rentabilite": "",
+            "etage": "2",
+            "plan": [
+                "https://immo-lead.com/appli/uploads/mediaprg/41/52632/14fb5854199d.pdf"
+            ],
+            "status": "Optionné",
+            "exposition": "-",
+            "loyer_mens": "0,00 €",
+            "prix_au_m_carre": 665409.78,
+            "annexes": {
+                "balcon": "17,56 m²"
+            },
+            "surface_annexe": "17.56 m²",
+            "parking": [],
+            "prix_immo_tva_norm": 62900000,
+            "prix_hors_parking_norm": 60000000,
+            "prix_immo_tva_red": "-",
+            "prix_hors_parking_red": "-"
+        },
+        {
+            "reference": "B22",
+            "type_residence": "Appartement",
+            "typo": "T4",
+            "surf_habit": "88,92 m²",
+            "etiquette_fisc": null,
+            "rentabilite": "",
+            "etage": "2",
+            "plan": [
+                "https://immo-lead.com/appli/uploads/mediaprg/41/52632/1e1c58c6668b.pdf"
+            ],
+            "status": "Libre",
+            "exposition": "-",
+            "loyer_mens": "0,00 €",
+            "prix_au_m_carre": 681511.47,
+            "annexes": {
+                "balcon": "20,66 m²"
+            },
+            "surface_annexe": "20.66 m²",
+            "parking": [],
+            "prix_immo_tva_norm": 63500000,
+            "prix_hors_parking_norm": 60600000,
+            "prix_immo_tva_red": "-",
+            "prix_hors_parking_red": "-"
+        },
+        {
+            "reference": "B23",
+            "type_residence": "Appartement",
+            "typo": "T3",
+            "surf_habit": "63,59 m²",
+            "etiquette_fisc": null,
+            "rentabilite": "",
+            "etage": "2",
+            "plan": [
+                "https://immo-lead.com/appli/uploads/mediaprg/41/52632/ffb10361464c.pdf"
+            ],
+            "status": "Libre",
+            "exposition": "-",
+            "loyer_mens": "0,00 €",
+            "prix_au_m_carre": 704513.29,
+            "annexes": {
+                "balcon": "15,87 m²"
+            },
+            "surface_annexe": "15.87 m²",
+            "parking": [],
+            "prix_immo_tva_norm": 47700000,
+            "prix_hors_parking_norm": 44800000,
+            "prix_immo_tva_red": "-",
+            "prix_hors_parking_red": "-"
+        },
+        {
+            "reference": "B31",
+            "type_residence": "Appartement",
+            "typo": "T5",
+            "surf_habit": "109,44 m²",
+            "etiquette_fisc": null,
+            "rentabilite": "",
+            "etage": "3",
+            "plan": [
+                "https://immo-lead.com/appli/uploads/mediaprg/41/52632/2e19ad4c7358.pdf"
+            ],
+            "status": "Optionné",
+            "exposition": "-",
+            "loyer_mens": "0,00 €",
+            "prix_au_m_carre": 793128.65,
+            "annexes": {
+                "terrasses": "76,91 m²"
+            },
+            "surface_annexe": "76.91 m²",
+            "parking": [],
+            "prix_immo_tva_norm": 95500000,
+            "prix_hors_parking_norm": 86800000,
+            "prix_immo_tva_red": "-",
+            "prix_hors_parking_red": "-"
+        },
+        {
+            "reference": "B32",
+            "type_residence": "Appartement",
+            "typo": "T3",
+            "surf_habit": "60,57 m²",
+            "etiquette_fisc": null,
+            "rentabilite": "",
+            "etage": "3",
+            "plan": [
+                "https://immo-lead.com/appli/uploads/mediaprg/41/52632/b8e0f2534a9a.pdf"
+            ],
+            "status": "Optionné",
+            "exposition": "-",
+            "loyer_mens": "0,00 €",
+            "prix_au_m_carre": 751196.96,
+            "annexes": {
+                "terrasses": "34,62 m²"
+            },
+            "surface_annexe": "34.62 m²",
+            "parking": [],
+            "prix_immo_tva_norm": 45500000,
+            "prix_hors_parking_norm": 45500000,
+            "prix_immo_tva_red": null,
+            "prix_hors_parking_red": null
+        },
+        {
+            "reference": "G15LAMPONI",
+            "type_residence": "Garage sous-sol",
+            "typo": "Tnr",
+            "surf_habit": "",
+            "etiquette_fisc": null,
+            "rentabilite": "",
+            "etage": "-1",
+            "plan": [],
+            "status": "Libre",
+            "exposition": "-",
+            "loyer_mens": "0,00 €",
+            "prix_au_m_carre": 0.0,
+            "annexes": {},
+            "surface_annexe": 0.0,
+            "parking": [],
+            "prix_immo_tva_norm": 2900000,
+            "prix_hors_parking_norm": 2900000,
+            "prix_immo_tva_red": null,
+            "prix_hors_parking_red": null
+        },
+        {
+            "reference": "",
+            "type_residence": "",
+            "typo": "T",
+            "surf_habit": "",
+            "etiquette_fisc": null,
+            "rentabilite": "",
+            "etage": "",
+            "plan": [],
+            "status": "Optionné",
+            "exposition": "-",
+            "loyer_mens": "0,00 €",
+            "prix_au_m_carre": 0.0,
+            "annexes": {},
+            "surface_annexe": 0.0,
+            "parking": [],
+            "prix_immo_tva_norm": "-",
+            "prix_hors_parking_norm": "-",
+            "prix_immo_tva_red": "-",
+            "prix_hors_parking_red": "-"
+        },
+        {
+            "reference": "G21",
+            "type_residence": "Garage sous-sol",
+            "typo": "Tnr",
+            "surf_habit": "",
+            "etiquette_fisc": null,
+            "rentabilite": "",
+            "etage": "-1",
+            "plan": [],
+            "status": "",
+            "exposition": "-",
+            "loyer_mens": "0,00 €",
+            "prix_au_m_carre": 0.0,
+            "annexes": {},
+            "surface_annexe": 0.0,
+            "parking": [],
+            "prix_immo_tva_norm": null,
+            "prix_hors_parking_norm": null,
+            "prix_immo_tva_red": null,
+            "prix_hors_parking_red": null
+        }
+    ]
+}
